@@ -16,14 +16,14 @@
 
 ## 精硕科技 Admaster (2018.12~至今)
 
-- 职位前端：前端开发（校招未签三方）
+- 职位前端：前端开发（在职）
 - 技术栈：React/typescript/Echarts/git <br>
 
   负责内容：
 
-1. 数据大屏 dashboard 开发。
-   在项目中我根据 ui 设计的图稿还原样式。使用 echarts 制作图表，确保可视化效果准确无误。同时注意组件拆分，不让代码过于臃肿。
-2. 组内开源工具 MasterRT 文档建设。负责编写 gitflow 部分文档以及制作流程图
+1. 根据 ui 制定的设计图，完成数据大屏 dashboard 开发任务，确保样式准确无误。
+2. 汽车，美妆品牌的声量 sass 系统的更新，维护与开发。在项目中我
+3. 文档建设，负责编写 gitflow 部分文档以及制作流程图
 
 ---
 
@@ -34,6 +34,8 @@
 - 负责内容：产品 SCANV 资产漏洞管理平台的前端组件维护与开发（https://vip.scanv.com/）
 
   在本项目中我在开发组长的安排下完成分配的任务，根据产品经理以及 ui 的要求实现设计图上的效果，其中包括新功能的实现，旧有组件的功能升级。其中包括了资产列表的功能，积分排行榜以及部分数据可视化的实现。在编写组件时充分考虑组件的复用性，严格按照后端提供的接口进行数据的传输，同时保证了代码符合规范。
+
+---
 
 # 技能清单
 
@@ -47,7 +49,7 @@
 
 - 包管理： 熟悉 npm 包管理工具
 
-- git: 了解 git 相关的添加删除等分支操作
+- git: 了解 git 的常用操作
 
 - HTTP： 了解 HTTP 协议相关的基本知识
 
@@ -57,9 +59,7 @@
 
 - [Renkotools](https://github.com/Renkosky/renkotools)：一些前端组件的 vue 实现
 
-- [CloudMusic](https://github.com/Renkosky/CloudMusic)：vue 全家桶实现的音乐 APP 展示界面，独立编写样式，图标文件使用阿里 icon。使用 axios 处理请求
-
-- [MusicStore](https://github.com/Renkosky/Music-Store)：音乐专辑购物网站，前端使用 bootstrap，后台使用 php+mysql
+- [cyberspace](https://github.com/Renkosky/cyberSpace)/[cyberspace-server](https://github.com/Renkosky/cyberSpace-server)：react 技术栈搭建的 H5 论坛 App，后端使用 koa+mongo 搭建。使用 token 进行效验,axios 处理异步请求。
 
 ---
 
